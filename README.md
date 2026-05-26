@@ -23,5 +23,7 @@ g++ -O3 -o my_simulation my_simulation.cpp
 ./my_simulation
 ```
 
-## 📜 License
-This project is open-source. Feel free to use and modify the code!
+## 📜 License & Attribution
+This repository is a personal educational portfolio. The exercises, algorithms, and examples are based on the book by Konstantinos N. Anagnostopoulos. 
+
+All credit for the original theoretical material and baseline algorithms goes to the author. If any original code from the book is included, it is done so under the terms of the original open-source license provided by the author. My personal solutions and modifications are open-source. Feel free to use them!
