@@ -42,6 +42,9 @@ a.out
 # Data Output
 *.dat
 
+# Documents and Books
+*.pdf
+
 # OS generated files
 .DS_Store
 .DS_Store?
