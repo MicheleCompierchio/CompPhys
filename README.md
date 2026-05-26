@@ -11,10 +11,17 @@ The goal of this project is to collect and organize all the source code, numeric
 The primary language used for these simulations is **C++**. 
 
 ## 📂 Structure
-The repository is organized by topic or chapter:
-- `Kinematics/`: Examples and simulations related to kinematics.
+The repository is organized by chapter, following the book's index:
+- `Ch01_The_Computer/`: OS basics, filesystem, compilers.
+- `Ch02_Cpp_Basics/`: Basic numerical types and programming.
+- `Ch03_Logistic_Map/`: Chaos and logistic map.
+- `Ch04_Motion_of_a_Particle/`: 1D motion and Euler methods.
+- `Ch05_Planar_Motion/`: 2D kinematics, simple pendulum, etc.
+- `Ch06_Motion_in_Space/`: 3D motion.
+- `Ch08_Diffusion_Equation/`: PDEs and diffusion.
+- `Ch12_Monte_Carlo_Simulations/`: Random walks and stochastic methods.
 
-*(More directories will be added as I progress through the book)*
+*(More directories will be populated as I progress through the book)*
 
 ## 🚀 How to compile and run
 You can use standard C++ compilers like `g++` or `clang++`. For example:
