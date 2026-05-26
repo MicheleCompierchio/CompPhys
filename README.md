@@ -33,7 +33,7 @@ This repository contains personal C++ solutions, numerical simulations, and exer
 Authored by Konstantinos N. Anagnostopoulos  
 [Book Website](http://www.physics.ntua.gr/~konstant/ComputationalPhysics)
 
-- **Software/Code**: The original software accompanying the book is covered by the **GNU Public License (GPL)**. In compliance with the GPL, any derived work, adapted algorithms, or modified source code in this repository is also distributed under the **GNU Public License**.
-- **Book Text/Theory**: The original book is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.
+- **Software/Code**: The original software accompanying the book is covered by the **GNU Public License (GPL)**. In compliance with the GPL, any derived work, adapted algorithms, or modified source code in this repository is also distributed under the [GNU Public License](http://www.gnu.org/licenses/).
+- **Book Text/Theory**: The original book is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**. A copy of the license can be viewed at [creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).
 
-All credit for the original theoretical material and baseline algorithms goes exclusively to the original author.
+**Modifications & Disclaimer:** This repository contains personal modifications, adaptations, and entirely new code written while studying the book. All credit for the original theoretical material and baseline algorithms goes exclusively to Prof. Anagnostopoulos. This project is an independent educational effort and does not imply that the original author endorses this repository or its use.
