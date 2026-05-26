@@ -12,14 +12,9 @@ The primary language used for these simulations is **C++**.
 
 ## 📂 Structure
 The repository is organized by chapter, following the book's index:
-- `Ch01_The_Computer/`: OS basics, filesystem, compilers.
-- `Ch02_Cpp_Basics/`: Basic numerical types and programming.
-- `Ch03_Logistic_Map/`: Chaos and logistic map.
-- `Ch04_Motion_of_a_Particle/`: 1D motion and Euler methods.
-- `Ch05_Planar_Motion/`: 2D kinematics, simple pendulum, etc.
-- `Ch06_Motion_in_Space/`: 3D motion.
-- `Ch08_Diffusion_Equation/`: PDEs and diffusion.
-- `Ch12_Monte_Carlo_Simulations/`: Random walks and stochastic methods.
+- `Ch01_Introduction/`: Basics and setup.
+- `Ch02_Kinematics/`: 1D and 2D kinematics, simple pendulum, etc.
+- `Ch03_.../`: *(Add chapters as you progress)*
 
 *(More directories will be populated as I progress through the book)*
 
