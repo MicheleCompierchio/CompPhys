@@ -26,6 +26,14 @@ g++ -O3 -o my_simulation my_simulation.cpp
 ```
 
 ## 📜 License & Attribution
-This repository is a personal educational portfolio. The exercises, algorithms, and examples are based on the book by Konstantinos N. Anagnostopoulos. 
+This repository contains personal C++ solutions, numerical simulations, and exercises based on:
 
-All credit for the original theoretical material and baseline algorithms goes to the author. If any original code from the book is included, it is done so under the terms of the original open-source license provided by the author. My personal solutions and modifications are open-source. Feel free to use them!
+**COMPUTATIONAL PHYSICS**  
+*A Practical Introduction to Computational Physics and Scientific Computing (C++ version)*  
+Authored by Konstantinos N. Anagnostopoulos  
+[Book Website](http://www.physics.ntua.gr/~konstant/ComputationalPhysics)
+
+- **Software/Code**: The original software accompanying the book is covered by the **GNU Public License (GPL)**. In compliance with the GPL, any derived work, adapted algorithms, or modified source code in this repository is also distributed under the **GNU Public License**.
+- **Book Text/Theory**: The original book is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.
+
+All credit for the original theoretical material and baseline algorithms goes exclusively to the original author.
